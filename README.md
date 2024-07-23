@@ -1,13 +1,13 @@
 
-# MARU DRY FRUIT
+# D R DRY FRUIT
 
-"Maru Dry Fruit: A sleek and efficient GitHub repository hosting the codebase for an online dry fruit store. This project offers a seamless shopping experience with a wide range of high-quality dry fruits, secure payment processing, and user-friendly account management. Developed using cutting-edge web technologies for reliability and scalability."
+"D R Dry Fruit: A sleek and efficient GitHub repository hosting the codebase for an online dry fruit store. This project offers a seamless shopping experience with a wide range of high-quality dry fruits, secure payment processing, and user-friendly account management. Developed using cutting-edge web technologies for reliability and scalability."
 
 
 
 ## Demo
 
-https://maru-dry-fruits.netlify.app/
+https://D R-dry-fruits.netlify.app/
 
 
 ## Authors
